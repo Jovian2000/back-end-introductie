@@ -1,13 +1,14 @@
 <?php
+    date_default_timezone_set("Europe/Amsterdam");
     $hour = date("H"); 
     if ($hour < "6") {
-        $headtxt = "Goede nacht!";
+        $headtxt = "Goedenacht!";
     } elseif ($hour < "12") {
-        $headtxt = "Goede morgen!";
+        $headtxt = "Goedemorgen!";
     } elseif ($hour < "18") {
-        $headtxt = "Goede middag!";
+        $headtxt = "Goedemiddag!";
     } else {
-        $headtxt = "Goede avond!";
+        $headtxt = "Goedenavond!";
     }                
 ?>
 

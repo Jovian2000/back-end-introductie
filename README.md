@@ -19,3 +19,27 @@
     title="rekenen 2"
     style="display: inline-block; margin: 0 auto; max-width: 30px">
 
+## L2F1BELP1O1 - Eindopdracht - Goedemorgen!
+<img
+    src="/screenshots/goedemorgen-screenshot.png"
+    alt="screenshot van goedemorgen.png in de morgen"
+    title="goedemorgen!"
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
+
+<img
+    src="/screenshots/goedemiddag-screenshot.png"
+    alt="screenshot van goedemorgen.png in de middag"
+    title="goedemiddag!"
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
+
+<img
+    src="/screenshots/goedenavond-screenshot.png"
+    alt="screenshot van goedemorgen.png in de avond"
+    title="goedenavond!"
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
+
+<img
+    src="/screenshots/goedenacht-screenshot.png"
+    alt="screenshot van goedemorgen.png in de nacht"
+    title="goedenacht!"
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
