@@ -4,18 +4,18 @@
     src="/screenshots/hello-world-screenshot.png"
     alt="screenshot van hello-world"
     title="hello world"
-    style="display: inline-block; margin: 0 auto; max-width: 50px">
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
 
 ## J2F1BELP1L2 - Rekenen
 <img
     src="/screenshots/rekenen-screenshot-1.png"
     alt="screenshot van rekenen 1"
     title="rekenen 1"
-    style="display: inline-block; margin: 0 auto; max-width: 50px">
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
 
 <img
     src="/screenshots/rekenen-screenshot-2.png"
     alt="screenshot van rekenen 2"
     title="rekenen 2"
-    style="display: inline-block; margin: 0 auto; max-width: 50px">
+    style="display: inline-block; margin: 0 auto; max-width: 30px">
 
