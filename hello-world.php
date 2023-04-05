@@ -8,6 +8,6 @@
     $txt1 = "<h1>Hello";
     $txt2 = " world!</h1>";
     echo "$txt1", "$txt2";
-    $array = ["Hello ", " world!"];
+    $array = array("Hello ", " world!");
     echo "$array[0]", "$array[1]";
 ?>
